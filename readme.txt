@@ -1,5 +1,5 @@
 === WP-AMD - Global JS and CSS handling ===
-Contributors: usability_dynamics, andypotanin, jbrw1984, maxim.peshkov, anton-korotkoff, ideric
+Contributors: usability_dynamics, andypotanin, jbrw1984, maxim.peshkov, anton-korotkoff, ideric, smoot328
 Donate link: http://usabilitydynamics.com/
 Tags: JS, CSS, Global JS, Global CSS, JS handling, CSS handling, Customizer, customize, theme.
 Requires at least: 4.0
